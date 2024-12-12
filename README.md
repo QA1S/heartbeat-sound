@@ -21,9 +21,9 @@ Note: I have included a datasets folder that can be used instead of an API call 
 
 ## **Project Structure**
 
-── preproces_data.ipynb   # Notebook for preprocessing heartbeat audio data
-── train_model.ipynb       # Notebook for model implementation and training
-── dataset /                      # Directory to store spectrograms and datasets (not required to run if you use the kagglehub API call provided in the code)
+    |── preproces_data.ipynb   # Notebook for preprocessing heartbeat audio data
+    |── train_model.ipynb       # Notebook for model implementation and training
+    |── dataset /                      # Directory to store spectrograms and datasets (not required to run if you use the kagglehub API call provided in the code)
 
 
 
