@@ -17,6 +17,7 @@ This project focuses on classifying heartbeat sounds using a DenseNet-based conv
    - Implemented in: **`model_training.ipynb`**
   
 Note: I have included a datasets folder that can be used instead of an API call to the Kagglehub dataset.
+The link to the dataset can also be found here: https://www.kaggle.com/datasets/kinguistics/heartbeat-sounds
 ---
 
 ## **Project Structure**
